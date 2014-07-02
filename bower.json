@@ -1,0 +1,20 @@
+{
+    "name" : "calendars",
+    "version" : "2.0.0",
+    "homepage" : "https://github.com/parmenides/calendars",
+    "authors" : [
+        "Payam Yousefi <root.p.y@gmail.com>"
+    ],
+    "main" : [
+        "dist/calendars.js",
+        "./jquery.calendars.picker.css"
+    ],
+    "license" : "MIT",
+    "ignore" : [
+        "**/.*",
+        "node_modules",
+        "bower_components",
+        "test",
+        "tests"
+    ]
+}
