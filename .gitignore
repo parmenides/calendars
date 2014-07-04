@@ -3,15 +3,9 @@ node_modules
 *.xml
 *.iml
 .idea/vcs.xml
-
 .idea/scopes/scope_settings.xml
-
 .idea/modules.xml
-
 .idea/misc.xml
-
 .idea/jsLibraryMappings.xml
-
 .idea/JalaliJSCalendar.iml
-
 node_modules/*
