@@ -24,7 +24,7 @@ module.exports = function ( grunt ) {
                     './jquery.calendars.picker.js',
                     './jquery.calendars.picker-fa.js'
                 ],
-                dest : 'dist/calendars.js'
+                dest : './calendars.js'
             }
         },
         uglify : {
@@ -33,7 +33,7 @@ module.exports = function ( grunt ) {
             },
             dist : {
                 src : '<%= concat.dist.dest %>',
-                dest : 'dist/calendars.min.js'
+                dest : './calendars.min.js'
             }
         }
     } );
